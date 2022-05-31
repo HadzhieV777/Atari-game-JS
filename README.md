@@ -1,2 +1,2 @@
 # Atari-game-JS
-The old school Atary game using Vanilla JavaScript and HTMLCanvas
+An old school Atary game using Vanilla JavaScript and HTMLCanvas
